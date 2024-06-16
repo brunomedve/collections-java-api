@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ListaTarefas {
-    // atributo
+    // atributos
 
     private List<Tarefa> tarefasList;
 
